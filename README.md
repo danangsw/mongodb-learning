@@ -1,6 +1,6 @@
 # mongodb-learning
 
-The basic tutorial of learning mongodb with node.js and express.
+The basic tutorial of learning mongodb.
 
 ## Introduction
 
